@@ -1,5 +1,3 @@
-# flappy-bird-ataberkpazarr
-flappy-bird-ataberkpazarr created by GitHub Classroom
 
 
 The game written over 2D template of Unity. As external package, DoTween used and required sprites (pipes,bird,clouds etc.) are provided by a flappy bird package.
